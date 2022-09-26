@@ -5,7 +5,7 @@
 - 📫 How to reach me: [dennis@dennischaves.xyz](https://dennischaves.xyz)
 - 🥅 My software development goals:
   - Develop a plotter program for Lathe ISO G-code.
-  - Develop a Vim plugin for NC code.
+  - Develop a *good* Vim plugin for NC code.
 
 <!---
 iSmashButtons/iSmashButtons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
